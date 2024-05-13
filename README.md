@@ -75,7 +75,9 @@
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=soldadim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=soldadim">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=soldadim" alt="Data Card for Spotify">
+</a>
 
 </details>
 </div>
